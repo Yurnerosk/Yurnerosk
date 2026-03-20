@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Yurnerosk, a Data Scientist based in Brazil.
+I'm Wilson, a Data Scientist based in Brazil.
 
 I like to make my spontaneous ideas come to life.
 
